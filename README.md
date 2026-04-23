@@ -4,12 +4,12 @@ Nessa atividade, vamos dar os primeiros passos com JavaScript, praticando com a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome: Patrick da Lomba Fernandes de Souza
+- Matricula: 907014
 
 ## Print do console do navegador
 
-<<  COLOQUE A IMAGEM AQUI >>
+![alt text](image.png)
 
 
 
