@@ -61,7 +61,3 @@ if (despesastotais > renda) {
         console.log("Ok, dá para melhorar a sobra. ");
     }
 }
-
-
-
-
